@@ -1,0 +1,26 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+#Evidence and Data
+detection_service/evidence/
+*.jpg
+*.png
+*.mp4
+#Node
+client/node_modules/
+admin/node_modules/
+client/build/
+admin/build/
+#IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+#Logs
+*.log
